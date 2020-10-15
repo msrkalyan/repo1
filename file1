@@ -4,6 +4,7 @@ int main()
 {
    // printf()
    printf("Hello, World!");          #from (dev1)
+   scanf()
    return 0;
 }
 
