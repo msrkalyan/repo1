@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <conio.h>     #from dev2
 int main()
 
 {
    // printf()
+      scanf()           #from dev2
    printf("Hello, World!");          #from (dev1)
    return 0;
 }
-
