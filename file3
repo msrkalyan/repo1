@@ -1,7 +1,0 @@
-hello class                    #from dev3
-{
-    public static void main()    #from dev3
-       {
-            system.out .println()   
-       } #from dev3
-}
