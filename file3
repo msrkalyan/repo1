@@ -1,7 +1,8 @@
 hello class                    #from dev4
 {
-    public static void main()
+    public static void main()    #from dev4
        {
-            system.out .println()    #from dev4
+             system.out .println()    #from dev4
        }
 }#from dev4
+
