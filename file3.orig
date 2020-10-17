@@ -1,17 +1,12 @@
+hello
 <<<<<<< HEAD
-hello class                    #from dev4
+from dev#2
 =======
-hello class                    #from dev3
->>>>>>> 5276a0629799ab41b098a22100e8921acb8fa004
-{
-    public static void main()    #from dev4
-       {
-<<<<<<< HEAD
-            system.out .println()    #from dev4
-       }
-}#from dev4
-=======
-            system.out .println()   
-       } #from dev4
-}
->>>>>>> 5276a0629799ab41b098a22100e8921acb8fa004
+ 0 from dev#1
+>>>>>>> bfe177cd22bfaaa1e4962913a95af2935fc287ec
+1
+2
+3"from DEv2"
+4
+5 #from dev1
+
