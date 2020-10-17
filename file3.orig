@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+hello class                    #from dev4
+=======
+hello class                    #from dev3
+>>>>>>> 5276a0629799ab41b098a22100e8921acb8fa004
+{
+    public static void main()    #from dev4
+       {
+<<<<<<< HEAD
+            system.out .println()    #from dev4
+       }
+}#from dev4
+=======
+            system.out .println()   
+       } #from dev4
+}
+>>>>>>> 5276a0629799ab41b098a22100e8921acb8fa004
